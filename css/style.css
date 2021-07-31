@@ -83,7 +83,7 @@ h1 {
 .rank-card--stars .star {
   height: 15px;
   width: 15px;
-  background-image: url(./images/icon-star.svg);
+  background-image: url("../images/icon-star.svg");
   background-size: contain;
 }
 
